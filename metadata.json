@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Voice & Device Assistant",
+  "description": "Futuristic JARVIS-style AI voice and device assistant featuring Google Voice Access screen control, Hinglish support, device automation, smart home dashboard, and real-time intent routing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
